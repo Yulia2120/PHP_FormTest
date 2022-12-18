@@ -19,172 +19,52 @@ session_start();
     <label>
         <input type="text" name="tQuest" value="Answer1">
     </label>
-<!--    <label for="tQuest1">Answer1</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest1">Answer2</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest1">Answer3</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest1">Answer4</label>-->
+
     <p>Question 2</p>
     <label>
         <input type="text" name="tQuest" value="Answer2">
     </label>
-<!--    <label for="tQuest2">Answer1</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest2">Answer2</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest2">Answer3</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest2">Answer4</label>-->
+
     <p>Question 3</p>
     <label>
         <input type="text" name="tQuest" value="Answer3">
     </label>
-<!--    <label for="tQuest3">Answer1</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest3">Answer2</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest" value="Answer">-->
-<!--    </label>-->
-<!--    <label for="tQuest3">Answer3</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest3">Answer4</label>-->
+
     <p>Question 4</p>
     <label>
         <input type="text" name="tQuest4" value="Answer4">
     </label>
-<!--    <label for="tQuest4">Answer1</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest4" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest4">Answer2</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest4" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest4">Answer3</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest4" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest4">Answer4</label>-->
+
     <p>Question 5</p>
     <label>
         <input type="text" name="tQuest5" value="Answer5">
     </label>
-<!--    <label for="tQuest5">Answer1</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest5" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest5">Answer2</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest5" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest5">Answer3</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest5" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest5">Answer4</label>-->
+
     <p>Question 6</p>
     <label>
         <input type="text" name="tQuest6" value="Answer6">
     </label>
-<!--    <label for="tQuest6">Answer1</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest6" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest6">Answer2</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest6" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest6">Answer3</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest6" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest6">Answer4</label>-->
+
     <p>Question 7</p>
     <label>
         <input type="text" name="tQuest7" value="Answer7">
     </label>
-<!--    <label for="tQuest7">Answer1</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest7" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest7">Answer2</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest7" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest7">Answer3</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest7" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest7">Answer4</label>-->
+
     <p>Question 8</p>
     <label>
         <input type="text" name="tQuest8" value="Answer8">
     </label>
-<!--    <label for="tQuest8">Answer1</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest8" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest8">Answer2</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest8" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest8">Answer3</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest8" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest8">Answer4</label>-->
+
     <p>Question 9</p>
     <label>
         <input type="text" name="tQuest9" value="Answer9">
     </label>
-<!--    <label for="tQuest9">Answer1</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest9" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest9">Answer2</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest9" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest9">Answer3</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest9" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest9">Answer4</label>-->
+
     <p>Question 10</p>
     <label>
         <input type="text" name="tQuest10" value="Answer10">
     </label>
-<!--    <label for="tQuest10">Answer1</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest10" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest10">Answer2</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest10" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest10">Answer3</label>-->
-<!--    <label>-->
-<!--        <input type="text" name="tQuest10" value="">-->
-<!--    </label>-->
-<!--    <label for="tQuest10">Answer4</label>-->
+
     <br>
     <br>
     <button>Finish</button>
